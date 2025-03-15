@@ -15,6 +15,13 @@ Feel free to explore and let me know your thoughts!
 
 #PowerBI #DataAnalysis #BusinessIntelligence #SalesAnalysis #Dashboard #DataVisualization #RegionalSales
 
+## Dashboard Video
+
+
+https://github.com/user-attachments/assets/4c61aeea-0516-4e44-b5b5-780428a8f9a3
+
+
 ## Dashboard Images
-![Sales Dashboard 1](https://github.com/yourusername/your-repo-path/blob/main/images/thaswa1.png)
-![Sales Dashboard 2](https://github.com/yourusername/your-repo-path/blob/main/images/thawa2.png)
+![thaswa1](https://github.com/user-attachments/assets/40d35dbd-1f97-46e8-ab1d-3504838aa349)
+![thawa2](https://github.com/user-attachments/assets/58af7e00-f056-4139-8181-577911181419)
+
